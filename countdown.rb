@@ -9,7 +9,7 @@ def LOOPS
     number += 1
   end
    when number = 0
-    puts "HAPPY NEW YEAR!"
+    return "HAPPY NEW YEAR!"
   end
 end
 
