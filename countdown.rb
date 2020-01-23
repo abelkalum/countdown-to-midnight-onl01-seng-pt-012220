@@ -9,3 +9,6 @@ while number > 0
   when number = 0
     puts "HAPPY NEW YEAR!"
 end
+
+def countdown_with_sleep
+  
