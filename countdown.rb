@@ -3,7 +3,7 @@
 number = 10
 
 def LOOPS
- def countdown
+ countdown
    while number > 0
     puts "#{number} SECOND(S)!"
     number += 1
@@ -13,7 +13,7 @@ def LOOPS
   end
 end
 
- def countdown_with_sleep
+ countdown_with_sleep
    sleep 1.seconds
    end
  end
